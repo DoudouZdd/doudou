@@ -1,0 +1,3 @@
+#baixiu
+PHP后台管理模板
+主要应用了MYSQL和apapache作为后台.bootstrap作为前端样式，还用用到了CHarcode.
